@@ -71,7 +71,19 @@
     </ion-app>
     <script src="post.js"></script>
     <script>
-        console.log(items)
+      console.log(items);
+      function updatelist() {
+        const list = document.querySelector("ion-list");
+        const template = document.querySelector(".list-item");
+        list.textContent = ""
+
+        for(let item of items){
+            let node = template.cloneNode(true);
+            node.querySelector(".item-title").textContent = item.title;
+            list.appendChild(node);
+        }
+      }
+      updatelist();
     </script>
   </body>
 </html>
