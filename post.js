@@ -4,7 +4,7 @@ const items = [
     type: "Microcontroller Board",
     desc: "Electronic prototyping platform, easy to use, suitable for beginners",
     highlight: "Open-source software and hardware schematics, large community support, provides various software libraries",
-    image_url: 'https://zh.wikipedia.org/wiki/File:Arduino_Uno_-_R3.jpg',
+    image_url: 'https://upload.wikimedia.org/wikipedia/commons/3/38/Arduino_Uno_-_R3.jpg',
     video_url: 'https://www.youtube.com/watch?v=QxPBCBX8ac8',
   },
   {
@@ -12,7 +12,7 @@ const items = [
     type: "Single Board Computer",
     desc: "Low-cost, compact computer for various applications, including education, prototyping, and media center",
     highlight: "More powerful than Arduino, can run full operating systems like Linux",
-    image_url: 'https://www.raspberrypi.org/app/uploads/2021/01/RPi4-Model-B-Case-2-600x600.jpg',
+    image_url: 'https://electropeak.com/media/catalog/product/cache/a99a51fafac039a73087ecfaa8ccceba/m/i/min-01-117-1-raspberry-pi-4-board.jpg',
     video_url: 'https://www.youtube.com/watch?v=7vhvnaWUZjE',
   },
   {
@@ -20,7 +20,7 @@ const items = [
     type: "Underwater Robot",
     desc: "Remotely operated underwater robot for exploration and research",
     highlight: "Open-source design, community collaboration, suitable for underwater exploration",
-    image_url: 'https://openrov.com/wp-content/uploads/2013/05/rovs.jpg',
+    image_url: 'https://e4e.ucsd.edu/assets/openrov/openrov_big.jpg',
     video_url: 'https://www.youtube.com/watch?v=QxPBCBX8ac8',
   },
   {
@@ -28,7 +28,7 @@ const items = [
     type: "3D Printer",
     desc: "Self-replicating machine that can replicate most of its parts",
     highlight: "Open-source design, allows users to build and modify their own 3D printers",
-    image_url: 'https://reprap.org/mediawiki/images/1/15/RepRapPrusaI3.jpg',
+    image_url: 'https://reprap.org/mediawiki/images/thumb/c/c6/RepRapOneDarwin-darwin.jpg/600px-RepRapOneDarwin-darwin.jpg',
     video_url: 'https://www.youtube.com/watch?v=RepRapPrinting',
   },
   {
@@ -36,7 +36,7 @@ const items = [
     type: "Industrial Machinery",
     desc: "Open-source industrial machines for building small modern civilizations",
     highlight: "Global Village Construction Set (GVCS) with 50 types of industrial machines",
-    image_url: 'https://opensourceecology.org/wp-content/uploads/2019/07/GC1.jpg',
+    image_url: 'http://opensourceecology.org/wp-content/uploads/2015/05/OSE-microtrac-2015-infographic-907x624px1.jpg',
     video_url: 'https://www.youtube.com/watch?v=OpenSourceEcology',
   },
   {
@@ -44,7 +44,7 @@ const items = [
     type: "Plastic Recycling Tools",
     desc: "Open-source tools for plastic recycling, including shredder, extruder, and injector",
     highlight: "Designed to make plastic recycling as simple as possible",
-    image_url: 'https://preciousplastic.com/images/1.jpg',
+    image_url: 'https://static.wixstatic.com/media/d73403_fb62652430364e6bae85334a21d98a11~mv2.jpg/v1/fill/w_1960,h_1102,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/d73403_fb62652430364e6bae85334a21d98a11~mv2.jpg',
     video_url: 'https://www.youtube.com/watch?v=PreciousPlastic',
   },
   {
@@ -52,7 +52,7 @@ const items = [
     type: "Open Source Housing",
     desc: "Digitally designed open-source homes that can be manufactured locally",
     highlight: "Modular design, easy to assemble",
-    image_url: 'https://wikihouse.cc/images/house.jpg',
+    image_url: 'https://cdn.archilovers.com/story/17980323bca045be80eda46284e6f987.jpg',
     video_url: 'https://www.youtube.com/watch?v=WikiHouse',
   },
   {
@@ -60,7 +60,7 @@ const items = [
     type: "Brain-Computer Interface",
     desc: "Open-source brain-computer interface platform for research and experimentation",
     highlight: "Can be used to control computers and other devices",
-    image_url: 'https://openbci.com/wp-content/uploads/2018/07/openbci_ganglion.jpg',
+    image_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Openbci-brain-computer-interface-by-omphalosskeptic.png/500px-Openbci-brain-computer-interface-by-omphalosskeptic.png',
     video_url: 'https://www.youtube.com/watch?v=OpenBCI',
   },
   {
@@ -68,7 +68,7 @@ const items = [
     type: "Automated Gardening Robot",
     desc: "Automated gardening robot for planting vegetables",
     highlight: "Open-source software and hardware, remotely controllable",
-    image_url: 'https://farm.bot/images/farmbot.jpg',
+    image_url: 'https://www.cloudamqp.com/img/blog/farmbot-rabbitmq.jpg',
     video_url: 'https://www.youtube.com/watch?v=FarmBot',
   },
   {
@@ -76,7 +76,7 @@ const items = [
     type: "Environmental Monitoring",
     desc: "Public domain environmental measurements",
     highlight: "Open-source hardware and data for monitoring radiation and other environmental hazards",
-    image_url: 'https://safecast.org/wp-content/uploads/2020/04/safecast.jpg',
+    image_url: 'https://orrery-media.s3.amazonaws.com/attr/2020-07/bGeigieyellow.jpg',
     video_url: 'https://www.youtube.com/watch?v=SafeCast',
   },
   {
@@ -84,7 +84,7 @@ const items = [
     type: "Drone",
     desc: "Arduino-based drone platform",
     highlight: "Open-source hardware and software, customizable and extensible",
-    image_url: 'https://ardusub.com/wp-content/uploads/2018/05/arducopter.jpg',
+    image_url: 'https://s3-us-west-2.amazonaws.com/selbystorage/wp-content/uploads/2014/09/20130207/Slide1.jpg',
     video_url: 'https://www.youtube.com/watch?v=ArduCopter',
   },
   {
@@ -92,7 +92,7 @@ const items = [
     type: "Machine Vision Platform",
     desc: "Low-cost open-source machine vision platform",
     highlight: "Suitable for object detection, tracking, and recognition",
-    image_url: 'https://openmv.io/images/openmv.jpg',
+    image_url: 'https://m.media-amazon.com/images/I/516gYsNYujL._AC_SX679_.jpg',
     video_url: 'https://www.youtube.com/watch?v=OpenMV',
   },
   {
@@ -100,7 +100,7 @@ const items = [
     type: "Microcontroller Board",
     desc: "Microcontroller board based on .NET Micro Framework",
     highlight: "Programmable using C#",
-    image_url: 'https://www.netduino.com/wp-content/uploads/2017/03/netduino.jpg',
+    image_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/And_the_ARM_core.jpg/500px-And_the_ARM_core.jpg',
     video_url: 'https://www.youtube.com/watch?v=Netduino',
   },
   {
@@ -108,7 +108,7 @@ const items = [
     type: "Wi-Fi Microcontroller Board",
     desc: "Microcontroller board with Wi-Fi capability",
     highlight: "Easy to connect to Wi-Fi networks, suitable for IoT applications",
-    image_url: 'https://nodemcu.readthedocs.io/en/latest/_images/nodemcu.jpg',
+    image_url: 'https://www.electronicwings.com/storage/PlatformSection/TopicContent/273/icon/NodeMCU%20GPIO.png',
     video_url: 'https://www.youtube.com/watch?v=NodeMCU',
   },
   {
@@ -124,7 +124,7 @@ const items = [
     type: "Eurorack Module",
     desc: "Open-source Eurorack module",
     highlight: "Modular synthesizer components",
-    image_url: 'https://winterbloom.com/images/winterbloom.jpg',
+    image_url: 'https://winterbloom.com/shop/castor-and-pollux/images/resized/cover-chonk.jpg',
     video_url: 'https://www.youtube.com/watch?v=Winterbloom',
   },
   {
@@ -132,7 +132,7 @@ const items = [
     type: "Gamma Ray Spectrometer",
     desc: "Hacked, low-cost gamma ray spectrometer",
     highlight: "Used for measuring gamma radiation",
-    image_url: 'https://opengammadevice.com/images/gamma_detector.jpg',
+    image_url: 'https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2020/05/rosspad_gamma-ray_detector/22009898-1-eng-GB/ROSSPAD_gamma-ray_detector_pillars.jpg',
     video_url: 'https://www.youtube.com/watch?v=OpenGamma',
   },
   {
@@ -140,7 +140,7 @@ const items = [
     type: "IP-KVM",
     desc: "DIY IP-KVM based on Raspberry Pi",
     highlight: "Allows remote access and control of servers",
-    image_url: 'https://pikvm.org/images/pikvm.jpg',
+    image_url: 'https://docs.pikvm.org/v4/overview.jpg',
     video_url: 'https://www.youtube.com/watch?v=PiKVM',
   },
   {
@@ -148,7 +148,7 @@ const items = [
     type: "Single Board Computer",
     desc: "Open-source, open-hardware single-board computer",
     highlight: "Various models available",
-    image_url: 'https://libre.computer/images/libre_computer.jpg',
+    image_url: 'https://www.electromaker.io/uploads/images/Blog/Libre%20Computer%20Board/Ports.JPG',
     video_url: 'https://www.youtube.com/watch?v=LibreComputer',
   },
   {
@@ -156,7 +156,7 @@ const items = [
     type: "DIY Laptop",
     desc: "DIY laptop made with free software and open-source hardware",
     highlight: "Customizable and upgradable",
-    image_url: 'https://mntreform.com/images/mnt_reform.jpg',
+    image_url: 'https://mntre.com/reform_next_images/nref-proto-overview.jpg',
     video_url: 'https://www.youtube.com/watch?v=MNTReform',
   },
 ];
